@@ -1,0 +1,42 @@
+ZONE name
+zone
+ZONE number
+10 
+ZONE cell
+20
+ZONE cpu
+zone0 3 
+zone1 5 
+zone2 3 
+zone3 7 
+zone4 7 
+zone5 5 
+zone6 5 
+zone7 7 
+zone8 3 
+zone9 5 
+
+ZONE ram
+zone0 8
+zone1 10
+zone2 16
+zone3 32
+zone4 8
+zone5 18
+zone6 16
+zone7 32
+zone8 16
+zone9 32
+ZONE io
+zone0 n
+zone1 y
+zone2 y
+zone3 y
+zone4 y
+zone5 y
+zone6 y
+zone7 y
+zone8 y
+zone9 y
+
+END file 
